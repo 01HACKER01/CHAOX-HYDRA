@@ -36,7 +36,7 @@ Charging Circuit | 1 | 0.50-2 | 0.50-2 | https://www.alibaba.com/trade/search?Se
 Voltage Regulator | 1 | 0.20-2 | 0.20-2 | https://www.alibaba.com/trade/search?SearchText=voltage+regulator+module |
 Power Switch | 1 | 0.10-1 | 0.10-1 | https://www.alibaba.com/trade/search?SearchText=maintained+power+switch |
 Custom PCB | 1 | 5-20 | 5-20 ||
-Enclosure | 1 | 2-10 | 2-10 | https://www.alibaba.com/trade/search?SearchText=electronics+enclosure
+Enclosure | 1 | 2-10 | 2-10 ||
 
 Components (minimum) | $29.88
 Components (maximum) | $90.70
